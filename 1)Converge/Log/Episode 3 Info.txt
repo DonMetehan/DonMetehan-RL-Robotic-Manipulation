@@ -1,0 +1,27 @@
+Episode 3 Log:
+
+
+Final Elite Information:
+
+Converge Phase:
+Standard Deviation of Rewards: 0.00
+Noise Scale: 0.00000
+Success Rate: 100.00%
+Theta Update Norm: 0.00000
+Theta Update Norm: 0.00000
+---------------------------------------
+Elite Rollouts for Converge Phase:
+Rollout 1 - Total Reward: 35740.326023511196
+Final Distance of Gripper to Target: 0.003339168897240278
+Theta_1:
+[[-0.53734841 -0.75556292  0.39092503]
+ [ 0.35142965  0.80182188 -0.0701707 ]
+ [-0.45712919 -0.17212558  1.10103161]
+ [-1.36182142  1.234378    0.31945244]
+ [-1.2868381  -2.36527027 -1.16706735]
+ [ 0.7647042   0.04010353  1.18069859]
+ [ 3.39781333  3.31279256  1.32895984]]
+Theta_2:
+[-0.48142042  1.61031677 -1.07253525  0.00362736  1.10452663  0.06778894
+ -1.2286563 ]
+
